@@ -1,0 +1,7 @@
+To get Memory details:
+ • #free –m (RAM)
+ • #df (HDD) 
+• #df –h (human readable format) 
+• #df –m (file system in MB) 
+• #du – directory usage 
+
