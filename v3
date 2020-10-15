@@ -1,0 +1,21 @@
+File Management:
+ • #touch – to create a file ex : 
+#touch demo.txt 
+• #ls – to list all files and dir
+ • #vi demo.txt – to open a file
+ • Press i – for insert mode to enter data
+ • :wq! – write and quite (close)
+ • #cat - to display content of file
+ • #ls -i – to list inode values of all files
+ • #ls -r – to list all files in reverse order
+ • #ls -t – to list by time of modification 
+• #ls -s – to list by sizes 
+• #cat > sample – to copy data to sample
+ • #cp sample (cp will ask if file content is getting override)
+ • #cat >> sample – to append data in sample
+ • #cat sample – to show content in sample
+• #ls -a – to list all hidden files 
+• #rm 
+• #ls -l – for displaying long list(all info about each file)
+• #touch file{1..5} – for creating group of files at a time\
+
