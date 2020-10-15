@@ -1,0 +1,17 @@
+Linux Commands:
+
+Basics:
+ • # -- root user
+ • $ -- normal user
+ • #whoami – gives your login name 
+• #who 
+• #date – gives date in UTC format 
+• #pwd – present working directory
+• #cal – displays current month with highlighting on today’s date 
+• #cal 2017 – displays all months in 2017 
+• #cal may 2017 – displays 2017 may month 
+• #clear – for clearing console 
+• #hostname – to get hostname (short name) 
+• #hostname –f – to get fully hostname  
+• #hostname -i – for displaying ip address of instance
+
