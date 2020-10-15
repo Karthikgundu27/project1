@@ -1,0 +1,10 @@
+need you
+
+Process Management:
+ • #ps - shows all the process details 
+• #ps aux – lists all the process of all users 
+• #kill - to kill a process which is running 
+• #pkill - to kill a process by name 
+#pkill java
+ #pkill tomcat 
+
